@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeOrder</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Submit">Submit</string>
+    <string name="Zero">0</string>
+    <string name="Price">Price</string>
+    <string name="price">Coffee : Rs 50</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="Whipped_Cream">Whipped Cream</string>
+    <string name="Extra_Chocolate">Extra Chocolate</string>
+    <string name="extra1">(Extra Rs. 20)</string>
+    <string name="extra2">(Extra Rs. 20)</string>
+    <string name="Toppings">Toppings</string>
+    <string name="name">Enter your Name</string>
+</resources>
